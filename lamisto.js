@@ -1,1 +1,1 @@
-console.log("sergiu ma suge")
+console.log("sergiu ma linge")
